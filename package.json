@@ -1,0 +1,19 @@
+{
+  "name": "converstation",
+  "version": "0.0.0",
+  "description": "Discuss, Evolve and Thrive",
+  "keywords": [
+    "splendsome",
+    "project",
+    "embeddable",
+    "comment",
+    "system"
+  ],
+  "homepage": "https://converstation.org",
+  "repository": "https://github.com/splendsome/converstation",
+  "bugs": "https://github.com/splendsome/converstation/issues",
+  "license": "MIT",
+  "main": "converstation.js",
+  "bin": "converstation-cli.js",
+  "author": "J Bruni <contato@jbruni.com.br> (https://github.com/jbruni)"
+}
